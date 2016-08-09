@@ -1,0 +1,67 @@
+
+body {
+  margin: 2em;
+}
+.index_page{
+    background-color:#FFFFFF; 
+}
+a{
+  font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: 400;
+	line-height: 20px;
+  color:#4E4E4E;
+  font-weight: bold;
+}
+
+h1 {
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant:small-caps;
+	font-weight: 500;
+	line-height: 26.4px;
+  color:#4E4E4E; 
+}
+h3 {
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: 500;
+	line-height: 15.4px;
+  color:#4E4E4E; 
+}
+p {
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: 400;
+	line-height: 20px;
+  color:#4E4E4E; 
+}
+blockquote {
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	font-size: 21px;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: 400;
+	line-height: 30px;
+  color:#4E4E4E; 
+}
+pre {
+	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	font-variant: small-caps;
+	font-weight: 400;
+	line-height: 18.5714px;
+  color:#4E4E4E; 
+}
+ /*
+  * See https://github.com/angular/angular.io/blob/master/public/docs/_examples/styles.css
+  * for the full set of master styles used by the documentation samples
+  */
